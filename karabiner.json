@@ -741,7 +741,7 @@
                         ]
                     },
                     {
-                        "description": "Emacs key bindings [option+keys] (rev 4)",
+                        "description": "Emacs key bindings [option+keys] (rev 1)",
                         "manipulators": [
                             {
                                 "conditions": [
